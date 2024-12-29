@@ -22,6 +22,7 @@ def index():
     return render_template('index.html', products=products)
 
 @app.route('/add_product', methods=['POST'])
+
 def add_product():
     name = request.form['name']
     price = request.form['price']
