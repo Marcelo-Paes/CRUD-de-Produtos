@@ -13,3 +13,4 @@ Este projeto é uma aplicação simples que permite que uma pessoa adicione prod
 - **HTML/CSS**: Define a aparência e o layout da página, como a posição dos campos do formulário e como os produtos são exibidos.
 - **SQLite**: Um banco de dados simples e leve que armazena as informações dos produtos.
 
+Acesse: http://marcelopaes.pythonanywhere.com/
